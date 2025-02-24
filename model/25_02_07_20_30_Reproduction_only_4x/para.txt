@@ -1,0 +1,9 @@
+model_name:Reproduction_only_4x
+learning_rate:0.002
+depth_learning_rate:0.002
+noise_add:False
+separate:separate
+loss_alpha:0
+loss_beta_i:201
+loss_beta_d:200
+multi_path:True
