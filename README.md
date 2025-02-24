@@ -19,6 +19,10 @@
 You will get .mat files for outputs. Then, you need to use Matlab.
 The dashboard allows students to track code history, view project details, and update records. Usage instructions are written in a Python file within the repository.
 
+### Notification
+
+We share a portion of the train data and training models in this shared repository. Please ask me if you need it.
+
 ### Contribution
 
 If you are a student at **Shizuoka University**, please reach out to me in direct.
